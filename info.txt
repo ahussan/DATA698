@@ -1,0 +1,18 @@
+Data source
+Institutions: University of California San Diego
+https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+
+
+Downloaded: 
+https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+
+
+working notebook
+https://www.kaggle.com/code/hossamgalal68/chest-x-ray-pneumonia-with-cnn#EDA
+
+another notebook
+https://www.kaggle.com/code/amyjang/tensorflow-pneumonia-classification-on-x-rays/notebook
